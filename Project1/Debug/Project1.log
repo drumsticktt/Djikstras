@@ -1,0 +1,5 @@
+﻿  Project1.c
+c:\users\travis\source\repos\project1\project1.c(31): warning C4013: 'readFile' undefined; assuming extern returning int
+c:\users\travis\source\repos\project1\project1.c(32): warning C4098: 'main': 'void' function returning a value
+c:\users\travis\source\repos\project1\project1.c(156): warning C4101: 'numVisited': unreferenced local variable
+  Project1.vcxproj -> C:\Users\Travis\source\repos\Project1\Debug\Project1.exe
